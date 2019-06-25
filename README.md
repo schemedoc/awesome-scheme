@@ -2,54 +2,52 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Contents
+
+- [Standards](#standards)
+- [Implementations](#implementations)
+- [Package Managers](#package-managers)
+- [Read, Learn, Teach](#read-learn-teach)
+- [Editor and IDEs](#editor-and-ides)
+- [Web Development](#web-development)
+
 ## Standards
 
 * [R<sup>5</sup>RS](https://schemers.org/Documents/Standards/R5RS/r5rs.pdf) (1998)
 * [**R<sup>6</sup>RS**](http://www.r6rs.org/final/r6rs.pdf) (2007)
 * [**R<sup>7</sup>RS**](https://bitbucket.org/cowan/r7rs/src/draft-10/rnrs/r7rs.pdf) (2013)
 * [R<sup>7</sup>RS large edition](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSHomePage.md) (in progress)
-
 * [SRFI (Scheme Requests for Implementation)](https://srfi.schemers.org/)
 
 ## Implementations
 
-### Actively developed
-
-#### R5RS-based
-
-* [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/) (native code)
-* [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page) (compile via C)
-* [Guile](https://www.gnu.org/software/guile/) (bytecode)
-
-#### R6RS-based
-
-* [Chez](https://cisco.github.io/ChezScheme/) (native code)
-* [IronScheme](https://github.com/leppie/IronScheme) (CLR-based)
-* [Racket](https://racket-lang.org/) (native code)
-
-#### R6RS/R7RS-based
-
-* [Larceny](http://larcenists.org/) (native code)
-
-#### R7RS-based
-
-* [Chibi](http://synthcode.com/wiki/chibi-scheme) (bytecode)
-* [Chicken](https://www.call-cc.org/) (compile via C)
-* [Cyclone](https://justinethier.github.io/cyclone/) (compile via C)
-* [Gauche](https://practical-scheme.net/gauche/) (bytecode)
-* [Gerbil](https://cons.io/) (compile via C)
-* [Kawa](https://www.gnu.org/software/kawa/) (JVM-based)
-* [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/) (native code)
-
-### Classic
-
+* [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, generate native code
+* [Chez](https://cisco.github.io/ChezScheme/): R6RS, generate native code.
+* [Chibi](http://synthcode.com/wiki/chibi-scheme): R7RS, rely on a bytecode Virtual-Machine.
+* [Chicken](https://www.call-cc.org/): R6RS and R7RS, compile to C.
+* [Cyclone](https://justinethier.github.io/cyclone/): R7RS compile to C.
+* [GNU Guile](https://www.gnu.org/software/guile/): R6RS, rely on bytecode Virtual-Machine
+* [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page): R5RS, compile to C
+* [Gauche](https://practical-scheme.net/gauche/): R7RS, rely on bytecode Virtual-Machine
+* [Gerbil](https://cons.io/): R7RS, compile to C.
 * [Ikarus](http://ikarus-scheme.org/)
-* [Scheme48](http://www.s48.org/)
-* [Scsh](https://scsh.net/)
-* [Ypsilon](http://www.littlewingpinball.com/doc/en/ypsilon/index.html)
+* [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR)
+* [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on Java-Virtual-Machine.
+* [Larceny](http://larcenists.org/): R6RS, generate native code.
+* [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS, generate native code.
+* [Racket](https://racket-lang.org/): R6RS, generate native code.
+* [Scheme48](http://www.s48.org/): TODO
+* [Scsh](https://scsh.net/): TODO
+* [Ypsilon](http://www.littlewingpinball.com/doc/en/ypsilon/index.html): TODO
 
-## Package managers
+## Package Managers
 
-* [Akku](https://akkuscm.org/) (R6RS and R7RS packages)
-* [Guix](https://www.gnu.org/software/guix/) (Guile packages)
-* [Snow](http://snow-fort.org/) (R7RS packages)
+* [Akku](https://akkuscm.org/): Implementation agnostic R6RS and R7RS packages.
+* [GNU Guix](https://www.gnu.org/software/guix/): Functional package manager and operating system distribution for GNU sytem.
+* [Snow](http://snow-fort.org/): portable R7RS libraries.
+
+## Read, Learn, Teach
+
+## Editor and IDEs
+
+## Web Development
