@@ -4,12 +4,15 @@
 
 ## Contents
 
+- [Events](#events)
 - [Standards](#standards)
 - [Implementations](#implementations)
 - [Package Managers](#package-managers)
 - [Read, Learn, Teach](#read-learn-teach)
 - [Editor and IDEs](#editor-and-ides)
 - [Web Development](#web-development)
+
+## Events
 
 ## Standards
 
