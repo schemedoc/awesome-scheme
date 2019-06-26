@@ -28,6 +28,7 @@
 ## Implementations
 
 * [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, generate a native code.
+* [BiwaScheme](https://www.biwascheme.org/) Interpreter written in JavaScript.
 * [Chez](https://cisco.github.io/ChezScheme/): R6RS, generate a native code.
 * [Chibi](http://synthcode.com/wiki/chibi-scheme): R7RS, rely on a bytecode Virtual-Machine.
 * [**Chicken**](https://www.call-cc.org/): R6RS and R7RS, compile to C, beginner friendly.
