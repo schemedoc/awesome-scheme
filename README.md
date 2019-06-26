@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Events](#events)
+- [Upcoming Events](#upcoming-events)
 - [Standards](#standards)
 - [Implementations](#implementations)
 - [Package Managers](#package-managers)
@@ -12,7 +12,9 @@
 - [Editor and IDEs](#editor-and-ides)
 - [Web Development](#web-development)
 
-## Events
+## Upcoming Events
+
+- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/) Berlin, Germany
 
 ## Standards
 
@@ -54,3 +56,5 @@
 ## Editor and IDEs
 
 ## Web Development
+
+## Past Events
