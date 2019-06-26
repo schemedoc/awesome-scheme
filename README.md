@@ -15,7 +15,7 @@
 
 ## Upcoming Events
 
-- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/) Berlin, Germany
+- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): Berlin, Germany
 
 ## Standards
 
