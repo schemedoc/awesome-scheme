@@ -11,6 +11,7 @@
 - [Read, Learn, Teach](#read-learn-teach)
 - [Editor and IDEs](#editor-and-ides)
 - [Web Development](#web-development)
+- [Past Events](#past-events)
 
 ## Upcoming Events
 
