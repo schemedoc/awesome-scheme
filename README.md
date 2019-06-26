@@ -38,7 +38,7 @@
 * [Gerbil](https://cons.io/): R7RS, compile to C.
 * [Ikarus](http://ikarus-scheme.org/) R6RS, compile to native code.
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
-* [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on Java-Virtual-Machine.
+* [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on Java-Virtual-Machine (JVM).
 * [Larceny](http://larcenists.org/): R6RS, generate native code.
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS, generate native code.
 * [**Racket**](https://racket-lang.org/): R6RS, generate native code, beginner friendly.
