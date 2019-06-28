@@ -60,6 +60,8 @@
 
 ## Read, Learn, Teach
 
+* [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html): classic computer science textbook from MIT
+
 ## Editor and IDEs
 
 ## Web Development
