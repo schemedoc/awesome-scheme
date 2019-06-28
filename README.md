@@ -34,12 +34,12 @@
 * [Chibi](http://synthcode.com/wiki/chibi-scheme): R7RS, rely on a bytecode Virtual-Machine.
 * [**Chicken**](https://www.call-cc.org/): R6RS and R7RS, compile to C, beginner friendly.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS compile to C.
-* [**GNU Guile**](https://www.gnu.org/software/guile/): R6RS, rely on a bytecode Virtual-Machine, beginner friendly.
 * [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page): R5RS, compile to C, official installers also for
   macOS, iOS, Windows.
 * [Gauche](https://practical-scheme.net/gauche/): R7RS, rely on a bytecode Virtual-Machine, compile to standalone
   executable, official installers also for Windows, Docker.
 * [Gerbil](https://cons.io/): R7RS, compile to C, based on Gambit.
+* [**GNU Guile**](https://www.gnu.org/software/guile/): R6RS, rely on a bytecode Virtual-Machine, beginner friendly.
 * [Ikarus](http://ikarus-scheme.org/) R6RS, generate native code.
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
