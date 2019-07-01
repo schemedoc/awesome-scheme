@@ -43,7 +43,7 @@
 * [Ikarus](http://ikarus-scheme.org/) R6RS, generate native code.
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
-* [Larceny](http://larcenists.org/): R6RS, generate native code, official installers also for macOS, Windows.
+* [Larceny](http://larcenists.org/): R6RS and R7RS, generate native code, official installers also for macOS, Windows.
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS, generate native code.
 * [**Racket**](https://racket-lang.org/): R6RS, generate native code, beginner friendly, full Windows support, optional
   typing.
