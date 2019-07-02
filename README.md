@@ -57,6 +57,8 @@
 
 ## Editor and IDEs
 
+* [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
+
 ## Web Development
 
 ## Past Events
