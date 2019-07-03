@@ -21,7 +21,7 @@
 
 * [R<sup>5</sup>RS](https://schemers.org/Documents/Standards/R5RS/r5rs.pdf) (1998, [errata](http://mumble.net/~kelsey/r5rs-errata.html))
 * [**R<sup>6</sup>RS**](http://www.r6rs.org/final/r6rs.pdf) (2007, [errata](http://www.r6rs.org/r6rs-errata.html))
-* [**R<sup>7</sup>RS**](https://bitbucket.org/cowan/r7rs/src/draft-10/rnrs/r7rs.pdf) (2013, [errata](https://bitbucket.org/cowan/r7rs/src/errata/rnrs/))
+* **R<sup>7</sup>RS** (2013; [errata-corrected version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs.pdf); [errata](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSSmallErrata.md); [original version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs-official.pdf))
 * [R<sup>7</sup>RS large edition](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSHomePage.md) (in progress)
 * [SRFI (Scheme Requests for Implementation)](https://srfi.schemers.org/)
 
