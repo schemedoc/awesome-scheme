@@ -20,10 +20,10 @@
 ## Standards
 
 * [R<sup>5</sup>RS](https://schemers.org/Documents/Standards/R5RS/r5rs.pdf) (1998, [errata](http://mumble.net/~kelsey/r5rs-errata.html))
-* **R<sup>6</sup>RS** (2007; [errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs.pdf); [errata](http://www.r6rs.org/r6rs-errata.html); [original version](http://www.r6rs.org/final/r6rs.pdf))
-  * Libraries ([errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-lib.pdf); [original version](http://www.r6rs.org/final/r6rs-lib.pdf))
-  * Appendices ([errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-app.pdf); [original version](http://www.r6rs.org/final/r6rs-app.pdf))
-  * Rationale ([errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-rationale.pdf); [original version](http://www.r6rs.org/final/r6rs-rationale.pdf))
+* **R<sup>6</sup>RS** (2007; [unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs.pdf); [errata](http://www.r6rs.org/r6rs-errata.html); [official version](http://www.r6rs.org/final/r6rs.pdf))
+  * Libraries ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-lib.pdf); [official version](http://www.r6rs.org/final/r6rs-lib.pdf))
+  * Appendices ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-app.pdf); [official version](http://www.r6rs.org/final/r6rs-app.pdf))
+  * Rationale ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-rationale.pdf); [official version](http://www.r6rs.org/final/r6rs-rationale.pdf))
 * **R<sup>7</sup>RS** (2013; [errata-corrected version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs.pdf); [errata](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSSmallErrata.md); [original version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs-official.pdf))
 * [R<sup>7</sup>RS large edition](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSHomePage.md) (in progress)
 * [SRFI (Scheme Requests for Implementation)](https://srfi.schemers.org/)
