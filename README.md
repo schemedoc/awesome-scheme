@@ -39,7 +39,7 @@
 * [Gerbil](https://cons.io/): R7RS, compiles to C, based on Gambit,  extends gambit with better macro and module systems.
 * [**Racket**](https://racket-lang.org/): R6RS, beginner friendly, full Windows support, optional
   typing, essentially a superset of scheme,  tons of libraries,  moving/moved to a Chez Scheme backend.
-  
+
 ### Transpilers to C
 * [**Chicken**](https://www.call-cc.org/): R6RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS,  experimental extension of Chicken-style GC with native thread support.
@@ -47,7 +47,7 @@
   macOS, iOS, Windows, considered quite fast.
 * [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, can also compile to Java-Virtual-Machine (JVM) classes,
   limited optional typing.
-  
+
 ### Bytecode VM's and JVM/CLR
 * [Chibi](http://synthcode.com/wiki/chibi-scheme): R7RS
 * [Gauche](https://practical-scheme.net/gauche/): R7RS, compiles to standalone
@@ -59,7 +59,7 @@
 ### Javascript Interpreter
 * [BiwaScheme](https://www.biwascheme.org/)
 
-### Unmaintained 
+### Unmaintained
 * [Larceny](http://larcenists.org/): R6RS and R7RS, generate native code, official installers also for macOS, Windows.
 * [Scheme48](http://www.s48.org/): classic, unmaintained but useful.
 * [Scsh](https://scsh.net/): classic, unmaintained but useful.
