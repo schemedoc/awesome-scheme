@@ -41,7 +41,7 @@
   typing, essentially a superset of scheme,  tons of libraries,  moving/moved to a Chez Scheme backend.
   
 ### Transpilers to C
-* [**Chicken**](https://www.call-cc.org/): R6RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
+* [**Chicken**](https://www.call-cc.org/): R5RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS,  experimental extension of Chicken-style GC with native thread support.
 * [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page): R5RS, official installers also for
   macOS, iOS, Windows, considered quite fast.
