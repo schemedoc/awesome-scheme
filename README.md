@@ -90,6 +90,7 @@
 ## Languages and computation
 
 * [_Harlan_](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
+* [_Nanopass Framework_](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
 
 ## Foreign Function Interface
 
