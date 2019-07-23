@@ -87,7 +87,7 @@
 
 * _chibi html-parser_: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
-## Numerical code
+## Languages and computation
 
 * [_Harlan_](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
 
