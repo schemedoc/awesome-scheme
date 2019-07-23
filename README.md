@@ -87,6 +87,10 @@
 
 * _chibi html-parser_: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
+## Numerical code
+
+* [_Harlan_](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
+
 ## Foreign Function Interface
 
 * _r6rs-pffi_ - portable foreign-function interface for several implementations (R6RS; [Home & Docs](https://github.com/ktakashi/r6rs-pffi); Akku)
