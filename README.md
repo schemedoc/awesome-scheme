@@ -87,6 +87,10 @@
 
 * _chibi html-parser_: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
+## Languages and computation
+
+* [_Nanopass Framework_](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
+
 ## Numerical code
 
 * [_Harlan_](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
