@@ -17,6 +17,10 @@
 
 - [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): Berlin, Germany
 
+## Advocacy
+
+* [Why Write Compilers in Scheme?](https://blog.theincredibleholk.org/blog/2013/07/09/why-write-compilers-in-scheme/)
+
 ## Standards
 
 * [R<sup>5</sup>RS](https://schemers.org/Documents/Standards/R5RS/r5rs.pdf) (1998, [errata](http://mumble.net/~kelsey/r5rs-errata.html))
