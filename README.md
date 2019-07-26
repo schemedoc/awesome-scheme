@@ -94,6 +94,7 @@
 ## Languages and computation
 
 * [_Nanopass Framework_](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
+* [_packrat_](http://tech.labs.oliverwyman.com/downloads/dev.lshift.net/tonyg/packrat.pdf): a packrat (PEG) parser generator with a Scheme DSL (Akku, Chicken, Racket)
 
 ## Numerical code
 
