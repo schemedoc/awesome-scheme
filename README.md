@@ -87,6 +87,10 @@
 
 * [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
 
+## Applications
+
+* [SIAG: Scheme In A Grid](http://siag.nu/siag/): old Scheme-scriptable spreadsheet with built-in web server
+
 ## Web Development
 
 * _chibi html-parser_: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
