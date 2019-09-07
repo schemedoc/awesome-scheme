@@ -13,9 +13,10 @@
 - [Web Development](#web-development)
 - [Past Events](#past-events)
 
-## Upcoming Events
+## Current Events
 
-- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): Berlin, Germany
+- [Gambit at 30 meeting](https://mailman.iro.umontreal.ca/pipermail/gambit-list/2019-September/009152.html): October 12-13 - Montreal, Canada - Gambit Scheme 30th anniversary workshop
+- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
 
 ## Advocacy
 
