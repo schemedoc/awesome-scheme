@@ -96,6 +96,11 @@
 
 * _chibi html-parser_: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
+## Graphics, audio, video
+
+* [Impromptu](http://impromptu.moso.com.au): live coding with Scheme on macOS
+* [Scheme For Max](https://github.com/iainctduncan/scheme-for-max): live coding with Scheme in Max/MSP
+
 ## Languages and computation
 
 * [_Nanopass Framework_](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
