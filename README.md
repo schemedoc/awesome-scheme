@@ -100,7 +100,6 @@
 
 * [Impromptu](http://impromptu.moso.com.au): live coding with Scheme on macOS
 * [Scheme For Max](https://github.com/iainctduncan/scheme-for-max): live coding with Scheme in Max/MSP
-* [Bintracker](https://bintracker.org/): modern chiptune music editor
 
 ## Languages and computation
 
