@@ -90,6 +90,7 @@
 ## Applications
 
 * [SIAG: Scheme In A Grid](http://siag.nu/siag/): old Scheme-scriptable spreadsheet with built-in web server
+* [GNUCash](https://www.gnucash.org/): Desktop personal finance application.  Actively maintained, scriptable in Guile.
 
 ## Web Development
 
