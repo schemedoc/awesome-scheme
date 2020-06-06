@@ -79,7 +79,7 @@
 
 ## Read, Learn, Teach
 
-* [Bibliography of Scheme-related Research](https://github.com/scheme-live/bibliography#bibliography-of-scheme-related-research)
+* [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
 * [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html): classic computer science textbook from MIT
 * [The Scheme Programming Language 4th Edition](https://www.scheme.com/tspl4/): Written by Kent Dybvig of Chez Scheme fame.
 
