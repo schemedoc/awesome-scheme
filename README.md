@@ -15,7 +15,10 @@
 
 ## Events (2020)
 
-* None known
+* [Dynamic Languages Symposium at SPLASH 2020](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
+* [Scheme and Functional Programming Workshop at ICFP 2020](https://icfp20.sigplan.org/home/scheme-2020): August 24-26 - virtual
+* [European Lisp Symposium](https://european-lisp-symposium.org/2020/): April 27-28 - virtual
+* [Racketfest 2020](https://racketfest.com): February 27 - Berlin, Germany
 
 ## Advocacy
 
