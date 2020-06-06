@@ -13,7 +13,7 @@
 - [Web Development](#web-development)
 - [Past Events](#past-events)
 
-## Current Events
+## Events (2020)
 
 * None known
 
@@ -114,7 +114,7 @@
 
 * r6rs-pffi - portable foreign-function interface for several implementations (R6RS; [Home & Docs](https://github.com/ktakashi/r6rs-pffi); Akku)
 
-## Past Events
+## Events (2019)
 
 - [Gambit at 30 meeting](https://mailman.iro.umontreal.ca/pipermail/gambit-list/2019-September/009152.html): October 12-13 - Montreal, Canada - Gambit Scheme 30th anniversary workshop
 - [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
