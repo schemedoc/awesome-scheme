@@ -66,13 +66,6 @@
 ### Javascript Interpreter
 * [BiwaScheme](https://www.biwascheme.org/)
 
-### Unmaintained
-* [Larceny](http://larcenists.org/): R6RS and R7RS, generate native code, official installers also for macOS, Windows.
-* [Scheme 48](http://www.s48.org/): classic, unmaintained but useful.
-* [Scsh](https://scsh.net/): classic, unmaintained but useful.
-* [Ypsilon](http://www.littlewingpinball.com/doc/en/ypsilon/index.html): classic, unmaintained but useful.
-
-
 ## Package Managers
 
 * [Akku](https://akkuscm.org/): Implementation agnostic R6RS and R7RS packages.
