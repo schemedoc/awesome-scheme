@@ -85,6 +85,8 @@
 * [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
 * [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html): classic computer science textbook from MIT
 * [The Little Schemer](https://ia800108.us.archive.org/4/items/Schemer/The%20Little%20Schemer.pdf): teaches recursive thinking using Scheme
+* [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuation of The Little Schemer ([code](https://github.com/pkrumins/the-seasoned-schemer))
+* [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): teaches logic programming using Scheme ([code](https://github.com/pkrumins/the-reasoned-schemer))
 * [The Scheme Programming Language 4th Edition](https://www.scheme.com/tspl4/): Written by Kent Dybvig of Chez Scheme fame.
 
 ## Editor and IDEs
