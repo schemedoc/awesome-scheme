@@ -84,6 +84,7 @@
 
 * [Bibliography of Scheme-related Research](https://github.com/schemedoc/bibliography)
 * [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html): classic computer science textbook from MIT
+* [The Little Schemer](https://7chan.org/pr/src/The_Little_Schemer_4th_2.pdf): teaches recursive thinking using Scheme
 * [The Scheme Programming Language 4th Edition](https://www.scheme.com/tspl4/): Written by Kent Dybvig of Chez Scheme fame.
 
 ## Editor and IDEs
