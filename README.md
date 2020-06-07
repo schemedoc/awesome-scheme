@@ -80,7 +80,7 @@
 * [The Little Schemer](https://ia800108.us.archive.org/4/items/Schemer/The%20Little%20Schemer.pdf): teaches recursive thinking using Scheme ([code](https://github.com/pkrumins/the-little-schemer))
 * [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuation of The Little Schemer ([code](https://github.com/pkrumins/the-seasoned-schemer))
 * [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): teaches logic programming using Scheme ([code](https://github.com/pkrumins/the-reasoned-schemer))
-* [The Scheme Programming Language 4th Edition](https://www.scheme.com/tspl4/): Written by Kent Dybvig of Chez Scheme fame.
+* [The Scheme Programming Language](https://www.scheme.com/tspl4/): language reference by Kent Dybvig, author of Chez Scheme
 * [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 
 ## Editor and IDEs
