@@ -97,6 +97,13 @@
 * [SXML](http://okmij.org/ftp/Scheme/SXML.html): very popular S-expression representation of XML/HTML
 * chibi html-parser: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
+## Text Processing
+
+* [**Scribble**](https://docs.racket-lang.org/scribble/): popular, somewhat lightweight Scheme-based markup language (Racket, [R7RS](http://snow-fort.org/pkg))
+* [Skribilo](https://www.nongnu.org/skribilo/): TeX/LaTeX-like document processor with Scheme scripting
+* [Skribe](http://www-sop.inria.fr/mimosa/fp/Skribe/) and [Scheme Scribe](http://www-sop.inria.fr/members/Manuel.Serrano/scribe/): older Scheme-based document processors from INRIA
+* [Pollen](https://docs.racket-lang.org/pollen/): a fancy typesetting system for writing entire books in Racket
+
 ## Graphics, audio, video
 
 * [LilyPond](https://lilypond.org/): music notation language with Scheme scripting
