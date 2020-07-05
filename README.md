@@ -99,6 +99,7 @@
 
 ## Graphics, audio, video
 
+* [LilyPond](https://lilypond.org/): music notation language with Scheme scripting
 * [Fluxus](https://www.pawfal.org/fluxus/): portable 3D game engine for live coding in Scheme
 * [Impromptu](http://impromptu.moso.com.au): live coding with Scheme on macOS
 * [Scheme For Max](https://github.com/iainctduncan/scheme-for-max): live coding with Scheme in Max/MSP
