@@ -94,7 +94,7 @@
 
 ## Web Development
 
-* [SXML](http://okmij.org/ftp/Scheme/SXML.html): very popular S-expression representation of XML/HTML
+* [**SXML**](http://okmij.org/ftp/Scheme/SXML.html): very popular S-expression representation of XML/HTML
 * chibi html-parser: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
 ## Text Processing
@@ -115,9 +115,6 @@
 
 * [Nanopass Framework](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
 * [packrat](http://tech.labs.oliverwyman.com/downloads/dev.lshift.net/tonyg/packrat.pdf): a PEG parser generator with a Scheme DSL ([Akku](https://akkuscm.org/packages/packrat/), [Chicken](http://wiki.call-cc.org/eggref/5/packrat), [Racket](https://pkgs.racket-lang.org/package/Packrat))
-
-## Numerical code
-
 * [Harlan](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
 
 ## Foreign Function Interface
