@@ -95,6 +95,7 @@
 ## Web Development
 
 * [**SXML**](http://okmij.org/ftp/Scheme/SXML.html): very popular S-expression representation of XML/HTML
+* [CSS-expressions](https://docs.racket-lang.org/css-expr/): S-expression representation of CSS (Racket)
 * chibi html-parser: lenient HTML parser (R7RS; [Docs](http://snow-fort.org/s/gmail.com/alexshinn/chibi/html-parser/0.5.7/index.html); Akku, Snow)
 
 ## Text Processing
