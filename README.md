@@ -107,6 +107,7 @@
 ## Graphics, audio, video
 
 * [LilyPond](https://lilypond.org/): music notation language with Scheme scripting
+* [libfive](https://libfive.com/studio/): script-driven solid modeling CAD based on Guile
 * [Fluxus](https://www.pawfal.org/fluxus/): portable 3D game engine for live coding in Scheme
 * [Impromptu](http://impromptu.moso.com.au): live coding with Scheme on macOS
 * [Scheme For Max](https://github.com/iainctduncan/scheme-for-max): live coding with Scheme in Max/MSP
