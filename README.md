@@ -81,6 +81,7 @@
 * [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuation of The Little Schemer ([code](https://github.com/pkrumins/the-seasoned-schemer))
 * [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): teaches logic programming using Scheme ([code](https://github.com/pkrumins/the-reasoned-schemer))
 * [The Scheme Programming Language](https://www.scheme.com/tspl4/): language reference by Kent Dybvig, author of Chez Scheme
+* [Essentials of Programming Languages](http://eopl3.com/): textbook on programming language implementation
 * [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 
 ## Editor and IDEs
