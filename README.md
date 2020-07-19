@@ -38,16 +38,19 @@
 ## Implementations
 
 ### Native Compilers
+
 * [Chez Scheme](https://cisco.github.io/ChezScheme/): R6RS, official installer also for Windows, considered one of the fastest scheme implementations.
 * [Ikarus](http://ikarus-scheme.org/) R6RS
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS
 
 ### Uses another Scheme as backend
+
 * [Gerbil](https://cons.io/): R7RS, compiles to C, based on Gambit,  extends gambit with better macro and module systems.
 * [**Racket**](https://racket-lang.org/): R6RS, beginner friendly, full Windows support, optional
   typing, essentially a superset of scheme,  tons of libraries,  moving/moved to a Chez Scheme backend.
 
 ### Transpilers to C
+
 * [**CHICKEN**](https://www.call-cc.org/): R5RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS,  experimental extension of Chicken-style GC with native thread support.
 * [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page): R5RS, official installers also for
@@ -56,6 +59,7 @@
   limited optional typing.
 
 ### Bytecode VM's and JVM/CLR
+
 * [Chibi-Scheme](http://synthcode.com/wiki/chibi-scheme): R7RS
 * [Gauche](https://practical-scheme.net/gauche/): R7RS, compiles to standalone
   executable, official installers also for Windows, Docker.
@@ -63,25 +67,29 @@
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
 
-### Javascript Interpreter
+### JavaScript Interpreter
+
 * [BiwaScheme](https://www.biwascheme.org/)
 
 ## Package Managers
 
-* [Akku](https://akkuscm.org/): Implementation agnostic R6RS and R7RS packages.
-* [GNU Guix](https://www.gnu.org/software/guix/): Functional package manager and operating system distribution for GNU sytem.
-* [Snow](http://snow-fort.org/): Portable R7RS libraries.
-* [Racket](https://pkgs.racket-lang.org/): Racket-specific packages.
+* [Akku](https://akkuscm.org/): for portable R6RS and R7RS libraries
+* [Snow](http://snow-fort.org/): for portable R7RS libraries
+* [GNU Guix](https://www.gnu.org/software/guix/): purely-functional package manager and GNU/Linux distro
+* [Racket Packages](https://pkgs.racket-lang.org/): for Racket libraries and applications
 
-## Read, Learn, Teach
+## Books
 
 * [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html): classic computer science textbook from MIT
 * [How to Design Programs](https://htdp.org/): an easier-to-approach, more down-to-earth counterpart to SICP
 * [The Little Schemer](https://ia800108.us.archive.org/4/items/Schemer/The%20Little%20Schemer.pdf): teaches recursive thinking using Scheme ([code](https://github.com/pkrumins/the-little-schemer))
 * [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuation of The Little Schemer ([code](https://github.com/pkrumins/the-seasoned-schemer))
 * [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): teaches logic programming using Scheme ([code](https://github.com/pkrumins/the-reasoned-schemer))
-* [The Scheme Programming Language](https://www.scheme.com/tspl4/): language reference by Kent Dybvig, author of Chez Scheme
+* [The Scheme Programming Language](https://www.scheme.com/tspl4/): language reference by the author of Chez Scheme
 * [Essentials of Programming Languages](http://eopl3.com/): textbook on programming language implementation
+
+## Research Papers
+
 * [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 
 ## Editor and IDEs
@@ -90,8 +98,8 @@
 
 ## Applications
 
+* [GNUCash](https://www.gnucash.org/): personal finance app scriptable in Guile
 * [SIAG: Scheme In A Grid](http://siag.nu/siag/): old Scheme-scriptable spreadsheet with built-in web server
-* [GNUCash](https://www.gnucash.org/): Desktop personal finance application.  Actively maintained, scriptable in Guile.
 
 ## Web Development
 
@@ -106,7 +114,7 @@
 * [Skribe](http://www-sop.inria.fr/mimosa/fp/Skribe/) and [Scheme Scribe](http://www-sop.inria.fr/members/Manuel.Serrano/scribe/): older Scheme-based document processors from INRIA
 * [Pollen](https://docs.racket-lang.org/pollen/): a fancy typesetting system for writing entire books in Racket
 
-## Graphics, audio, video
+## Graphics, Music, Audio, Video
 
 * [LilyPond](https://lilypond.org/): music notation language with Scheme scripting
 * [libfive](https://libfive.com/studio/): script-driven solid modeling CAD based on Guile
@@ -115,14 +123,11 @@
 * [Extempore](https://extemporelang.github.io): portable live coding in Scheme
 * [Scheme For Max](https://github.com/iainctduncan/scheme-for-max): live coding with Scheme in Max/MSP
 
-## Languages and computation
+## Languages and Computation
 
 * [Nanopass Framework](https://nanopass.org/): a DSL for factoring compilers into many small passes and IRs
-* [packrat](http://tech.labs.oliverwyman.com/downloads/dev.lshift.net/tonyg/packrat.pdf): a PEG parser generator with a Scheme DSL ([Akku](https://akkuscm.org/packages/packrat/), [Chicken](http://wiki.call-cc.org/eggref/5/packrat), [Racket](https://pkgs.racket-lang.org/package/Packrat))
 * [Harlan](https://github.com/eholk/harlan): a Scheme-based programming language for GPU computing
-
-## Foreign Function Interface
-
+* [packrat](http://tech.labs.oliverwyman.com/downloads/dev.lshift.net/tonyg/packrat.pdf): a PEG parser generator with a Scheme DSL ([Akku](https://akkuscm.org/packages/packrat/), [Chicken](http://wiki.call-cc.org/eggref/5/packrat), [Racket](https://pkgs.racket-lang.org/package/Packrat))
 * r6rs-pffi - portable foreign-function interface for several implementations (R6RS; [Home & Docs](https://github.com/ktakashi/r6rs-pffi); Akku)
 
 ## Events (2019)
