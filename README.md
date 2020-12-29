@@ -69,7 +69,8 @@
 
 ### JavaScript Interpreter
 
-* [BiwaScheme](https://www.biwascheme.org/)
+* [BiwaScheme](https://www.biwascheme.org/): R6RS, partial R7RS, compiler to intermediate represantion + VM
+* [LIPS](https://lips.js.org/): R7RS, most of the spec is written in core Scheme, good interop with JavaScript
 
 ## Package Managers
 
