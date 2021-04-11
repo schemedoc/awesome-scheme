@@ -13,6 +13,9 @@
 - [Web Development](#web-development)
 - [Past Events](#past-events)
 
+## Events (2021)
+* Scheme and Functional Programming Workshop: August 27 - virtual
+
 ## Events (2020)
 
 * [Dynamic Languages Symposium at SPLASH 2020](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
