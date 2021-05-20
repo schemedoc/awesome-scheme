@@ -26,6 +26,7 @@
 ## Advocacy
 
 * [Why Write Compilers in Scheme?](https://blog.theincredibleholk.org/blog/2013/07/09/why-write-compilers-in-scheme/)
+* [Why LambdaChip is using Scheme](https://lambdachip.com/articles/news/11)
 
 ## Standards
 
