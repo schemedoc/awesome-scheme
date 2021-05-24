@@ -4,18 +4,24 @@
 
 ## Contents
 
-- [Upcoming Events](#upcoming-events)
+- [Events (2021)](#events-2021)
+- [Advocacy](#advocacy)
 - [Standards](#standards)
 - [Implementations](#implementations)
 - [Package Managers](#package-managers)
-- [Read, Learn, Teach](#read-learn-teach)
-- [Editor and IDEs](#editor-and-ides)
+- [Books](#books)
+- [Research Papers](#research-papers)
+- [Editors and IDEs](#editors-and-ides)
+- [Applications](#applications)
 - [Web Development](#web-development)
+- [Text processing](#text-processing)
+- [Graphics, Music, Audio, Video](#graphics-music-audio-video)
+- [Languages and Computation](#languages-and-computation)
 - [Past Events](#past-events)
 
 ## Events (2021)
 
-* [Scheme and Functional Programming Workshop at ICFP 2021](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
+* [Scheme and Functional Programming Workshop at ICFP](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
 * [European Lisp Symposium](https://european-lisp-symposium.org/2021/): May 3-4 - virtual
 
 ## Advocacy
@@ -93,7 +99,7 @@
 
 * [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 
-## Editor and IDEs
+## Editors and IDEs
 
 * [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
 
@@ -135,12 +141,12 @@
 
 ### 2020
 
-* [Racketfest 2020](https://racketfest.com): February 27 - Berlin, Germany
+* [Racketfest](https://racketfest.com): February 27 - Berlin, Germany
 * [European Lisp Symposium](https://european-lisp-symposium.org/2020/): April 27-28 - virtual
-* [Scheme and Functional Programming Workshop at ICFP 2020](https://icfp20.sigplan.org/home/scheme-2020): August 24-26 - virtual
-* [Dynamic Languages Symposium at SPLASH 2020](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
+* [Scheme and Functional Programming Workshop at ICFP](https://icfp20.sigplan.org/home/scheme-2020): August 24-26 - virtual
+* [Dynamic Languages Symposium at SPLASH](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
 
 ### 2019
 
-* [Scheme and Functional Programming Workshop at ICFP 2019](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
+* [Scheme and Functional Programming Workshop at ICFP](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
 * [Gambit Scheme 30th anniversary workshop](https://github.com/gambit/gambit-at-30): October 12-13 - Montreal, Canada
