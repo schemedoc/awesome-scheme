@@ -5,12 +5,18 @@
 ## Contents
 
 - [Events (2021)](#events-2021)
+- [Advocacy](#advocacy)
 - [Standards](#standards)
 - [Implementations](#implementations)
 - [Package Managers](#package-managers)
-- [Read, Learn, Teach](#read-learn-teach)
-- [Editor and IDEs](#editor-and-ides)
+- [Books](#books)
+- [Research Papers](#research-papers)
+- [Editors and IDEs](#editors-and-ides)
+- [Applications](#applications)
 - [Web Development](#web-development)
+- [Text processing](#text-processing)
+- [Graphics, Music, Audio, Video](#graphics-music-audio-video)
+- [Languages and Computation](#languages-and-computation)
 - [Past Events](#past-events)
 
 ## Events (2021)
@@ -93,7 +99,7 @@
 
 * [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 
-## Editor and IDEs
+## Editors and IDEs
 
 * [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
 
