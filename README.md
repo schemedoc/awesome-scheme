@@ -14,14 +14,9 @@
 - [Past Events](#past-events)
 
 ## Events (2021)
-* Scheme and Functional Programming Workshop: August 27 - virtual
 
-## Events (2020)
-
-* [Dynamic Languages Symposium at SPLASH 2020](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
-* [Scheme and Functional Programming Workshop at ICFP 2020](https://icfp20.sigplan.org/home/scheme-2020): August 24-26 - virtual
-* [European Lisp Symposium](https://european-lisp-symposium.org/2020/): April 27-28 - virtual
-* [Racketfest 2020](https://racketfest.com): February 27 - Berlin, Germany
+* [Scheme and Functional Programming Workshop at ICFP 2021](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
+* [European Lisp Symposium](https://european-lisp-symposium.org/2021/): May 3-4 - virtual
 
 ## Advocacy
 
@@ -136,7 +131,16 @@
 * [packrat](http://tech.labs.oliverwyman.com/downloads/dev.lshift.net/tonyg/packrat.pdf): a PEG parser generator with a Scheme DSL ([Akku](https://akkuscm.org/packages/packrat/), [Chicken](http://wiki.call-cc.org/eggref/5/packrat), [Racket](https://pkgs.racket-lang.org/package/Packrat))
 * r6rs-pffi - portable foreign-function interface for several implementations (R6RS; [Home & Docs](https://github.com/ktakashi/r6rs-pffi); Akku)
 
-## Events (2019)
+## Past Events
 
-- [Gambit Scheme 30th anniversary workshop](https://github.com/gambit/gambit-at-30): October 12-13 - Montreal, Canada
-- [20th Annual Scheme and Functional Programming Workshop, 2019](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
+### 2020
+
+* [Racketfest 2020](https://racketfest.com): February 27 - Berlin, Germany
+* [European Lisp Symposium](https://european-lisp-symposium.org/2020/): April 27-28 - virtual
+* [Scheme and Functional Programming Workshop at ICFP 2020](https://icfp20.sigplan.org/home/scheme-2020): August 24-26 - virtual
+* [Dynamic Languages Symposium at SPLASH 2020](https://conf.researchr.org/home/dls-2020): November 15-20 - Chicago, USA
+
+### 2019
+
+* [Scheme and Functional Programming Workshop at ICFP 2019](https://thomas.gilray.org/scheme-2019/): August 18 - Berlin, Germany
+* [Gambit Scheme 30th anniversary workshop](https://github.com/gambit/gambit-at-30): October 12-13 - Montreal, Canada
