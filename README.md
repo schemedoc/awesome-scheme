@@ -36,7 +36,7 @@
   * Libraries ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-lib.pdf); [official version](http://www.r6rs.org/final/r6rs-lib.pdf))
   * Appendices ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-app.pdf); [official version](http://www.r6rs.org/final/r6rs-app.pdf))
   * Rationale ([unofficial errata-corrected version](https://weinholt.se/scheme/r6rs/r6rs-rationale.pdf); [official version](http://www.r6rs.org/final/r6rs-rationale.pdf))
-* **R<sup>7</sup>RS** (2013; [errata-corrected version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs.pdf); [errata](https://bitbucket.org/cowan/r7rs-wg1-infra/src/default/R7RSSmallErrata.md); [original version](https://bitbucket.org/cowan/r7rs/raw/errata/rnrs/r7rs-official.pdf))
+* **R<sup>7</sup>RS** (2013; [errata-corrected version](https://standards.scheme.org/unofficial/errata-corrected-r7rs.pdf); [errata](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSSmallErrata.md); [original version](https://standards.scheme.org/official/r7rs.pdf))
 * [R<sup>7</sup>RS large edition](https://github.com/johnwcowan/r7rs-work/blob/master/R7RSHomePage.md) (in progress)
 * [SRFI (Scheme Requests for Implementation)](https://srfi.schemers.org/)
 
