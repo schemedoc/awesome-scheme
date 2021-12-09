@@ -2,6 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Translations
+
+* [Русский](README_RU.md)
+
 ## Contents
 
 - [Events (2021)](#events-2021)
