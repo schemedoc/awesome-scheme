@@ -91,12 +91,12 @@
 ## Libros
 
 * [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html):
-  libro de texto clásico de informática del MIT. [versión en español (incompleta/en proceso)](https://github.com/FedeHC/SICP-ES)
+  libro de texto clásico de informática del MIT. [versión en español](https://github.com/FedeHC/SICP-ES) (incompleta/en proceso)
 * [How to Design Programs](https://htdp.org/): una contraparte de SICP más fácil de abordar y con los pies en la tierra
-* [The Little Schemer](https://ia800108.us.archive.org/4/items/Schemer/The%20Little%20Schemer.pdf): Enseña pensamiento recursivo usando Scheme ([code](https://github.com/pkrumins/the-little-schemer))
-* [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuación de /The Little Schemer/ ([code](https://github.com/pkrumins/the-seasoned-schemer))
-* [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): enseña programación lógica usando Scheme ([code](https://github.com/pkrumins/the-reasoned-schemer))
-* [The Scheme Programming Language](https://www.scheme.com/tspl4/): Referencia del lenguaje por el autor de Chez Scheme
+* [The Little Schemer](https://ia800108.us.archive.org/4/items/Schemer/The%20Little%20Schemer.pdf): enseña pensamiento recursivo usando Scheme ([código](https://github.com/pkrumins/the-little-schemer))
+* [The Seasoned Schemer](https://mitpress.mit.edu/books/seasoned-schemer-second-edition): continuación de /The Little Schemer/ ([código](https://github.com/pkrumins/the-seasoned-schemer))
+* [The Reasoned Schemer](https://mitpress.mit.edu/books/reasoned-schemer-second-edition): enseña programación lógica usando Scheme ([código](https://github.com/pkrumins/the-reasoned-schemer))
+* [The Scheme Programming Language](https://www.scheme.com/tspl4/): referencia del lenguaje por el autor de Chez Scheme
 * [Essentials of Programming Languages](http://eopl3.com/): libro de texto sobre implementación de lenguajes de programación
 
 ## Trabajos de Investigación
@@ -120,8 +120,8 @@
 
 ## Procesamiento de Texto
 
-* [**Scribble**](https://docs.racket-lang.org/scribble/): Lenguaje de marcado basado en Scheme, algo ligero y popular (Racket, [R7RS](http://snow-fort.org/pkg))
-* [Skribilo](https://www.nongnu.org/skribilo/): Procesador de documentos similar a TeX/LaTeX con scripting en Scheme
+* [**Scribble**](https://docs.racket-lang.org/scribble/): lenguaje de marcado basado en Scheme, algo ligero y popular (Racket, [R7RS](http://snow-fort.org/pkg))
+* [Skribilo](https://www.nongnu.org/skribilo/): procesador de documentos similar a TeX/LaTeX con scripting en Scheme
 * [Skribe](http://www-sop.inria.fr/mimosa/fp/Skribe/) y [Scheme Scribe](http://www-sop.inria.fr/members/Manuel.Serrano/scribe/): antiguos procesadores de documentos basados ​​en Scheme de INRIA
 * [Pollen](https://docs.racket-lang.org/pollen/): un elegante sistema de composición tipográfica para escribir libros completos en Racket
 
