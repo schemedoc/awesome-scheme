@@ -5,6 +5,7 @@
 ## Translations
 
 * [Русский](README_RU.md)
+* [Español](README_ES.md)
 
 ## Contents
 
