@@ -48,19 +48,19 @@
 
 ## Implementations
 
-### Native Compilers
+### Compiling to Native Code
 
 * [Chez Scheme](https://cisco.github.io/ChezScheme/): R6RS, official installer also for Windows, considered one of the fastest scheme implementations.
 * [Ikarus](http://ikarus-scheme.org/) R6RS
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS
 
-### Uses another Scheme as backend
+### Based on Another Scheme
 
 * [Gerbil](https://cons.io/): R7RS, compiles to C, based on Gambit,  extends gambit with better macro and module systems.
 * [**Racket**](https://racket-lang.org/): R6RS, beginner friendly, full Windows support, optional
   typing, essentially a superset of scheme,  tons of libraries,  moving/moved to a Chez Scheme backend.
 
-### Transpilers to C
+### Compiling to C
 
 * [**CHICKEN**](https://www.call-cc.org/): R5RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS,  experimental extension of Chicken-style GC with native thread support.
@@ -69,7 +69,7 @@
 * [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, can also compile to Java-Virtual-Machine (JVM) classes,
   limited optional typing.
 
-### Bytecode VM's and JVM/CLR
+### Bytecode VMs and JVM/CLR
 
 * [Chibi-Scheme](http://synthcode.com/wiki/chibi-scheme): R7RS
 * [Gauche](https://practical-scheme.net/gauche/): R7RS, compiles to standalone
@@ -79,7 +79,7 @@
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
 * [STklos](http://stklos.net): R7RS except for the module system; ad-hoc portable VM, with CLOS-like object system.
 
-### JavaScript Interpreter
+### Based on JavaScript
 
 * [BiwaScheme](https://www.biwascheme.org/): R6RS, partial R7RS, compiler to intermediate represantion + VM
 * [LIPS](https://lips.js.org/): R7RS, most of the spec is written in core Scheme, good interop with JavaScript
