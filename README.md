@@ -24,11 +24,6 @@
 - [Languages and Computation](#languages-and-computation)
 - [Past Events](#past-events)
 
-## Events (2021)
-
-* [Scheme and Functional Programming Workshop at ICFP](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
-* [European Lisp Symposium](https://european-lisp-symposium.org/2021/): May 3-4 - virtual
-
 ## Advocacy
 
 * [Why _Structure and Interpretation of Computer Programs_ matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
@@ -144,6 +139,11 @@
 * r6rs-pffi - portable foreign-function interface for several implementations (R6RS; [Home & Docs](https://github.com/ktakashi/r6rs-pffi); Akku)
 
 ## Past Events
+
+## 2021
+
+* [Scheme and Functional Programming Workshop at ICFP](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
+* [European Lisp Symposium](https://european-lisp-symposium.org/2021/): May 3-4 - virtual
 
 ### 2020
 
