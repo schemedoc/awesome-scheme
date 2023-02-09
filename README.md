@@ -140,6 +140,10 @@
 
 ## Past Events
 
+## 2022
+
+* [Scheme and Functional Programming Workshop at ICFP](https://icfp22.sigplan.org/home/scheme-2022): September 16 - Ljubljana, Slovenia
+
 ## 2021
 
 * [Scheme and Functional Programming Workshop at ICFP](https://icfp21.sigplan.org/home/scheme-2021): August 27 - virtual
