@@ -79,6 +79,10 @@
 * [BiwaScheme](https://www.biwascheme.org/): R6RS, partial R7RS, compiler to intermediate represantion + VM
 * [LIPS](https://lips.js.org/): R7RS, most of the spec is written in core Scheme, good interop with JavaScript
 
+### Implemented in Python
+
+* [Calysto Scheme](https://github.com/Calysto/calysto_scheme): Partial R6RS, written in Scheme, transpiled to Python.
+
 ## Package Managers
 
 * [Akku](https://akkuscm.org/): for portable R6RS and R7RS libraries
