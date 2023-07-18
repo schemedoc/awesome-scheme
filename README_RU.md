@@ -19,13 +19,9 @@
 - [Языки и вычисления](#языки-и-вычисления)
 - [Прошедшие мероприятия](#прошедшие-мероприятия)
 
-## Мероприятия (2021)
-
-* [Практикум по Scheme и функциональному программированию на ICFP](https://icfp21.sigplan.org/home/scheme-2021): 27 августа - виртуальное
-* [Европейский симпозиум по Лиспу](https://european-lisp-symposium.org/2021/): 3-4 мая - виртуальное
-
 ## Пропаганда
 
+* [Why _Structure and Interpretation of Computer Programs_ matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [Why Write Compilers in Scheme?](https://blog.theincredibleholk.org/blog/2013/07/09/why-write-compilers-in-scheme/)
 * [Why LambdaChip is using Scheme](https://lambdachip.com/articles/news/11)
 
@@ -42,25 +38,25 @@
 
 ## Реализации
 
-### Компиляторы
+### Компиляторы в нативный код
 
 * [Chez Scheme](https://cisco.github.io/ChezScheme/): R6RS, официальный установщик в том числе и для Windows, считается одной из самых быстрых реализаций Scheme.
 * [Ikarus](http://ikarus-scheme.org/) R6RS
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS
 
-### Использующие другую Scheme в качестве бэкенда
+### Основанные на другой Scheme
 
-* [Gerbil](https://cons.io/): R7RS, компилируется в C, основан на Gambit, расширяет gambit более совершенными системами макросов и модулей.
-* [**Racket**](https://racket-lang.org/): R6RS, удобная для начинающих, полная поддержка Windows,необязательная 
-  типизация, по сути, надмножество scheme, тонны библиотек, переходит/перешел на Chez Scheme в качестве бэкенда.
+* [Gerbil](https://cons.io/): R7RS, компилируется в C, основана на Gambit, расширяет Gambit более совершенными системами макросов и модулей.
+* [**Racket**](https://racket-lang.org/): R6RS, удобная для начинающих, полная поддержка Windows, необязательная
+  типизация, по сути, надмножество Scheme, тонны библиотек, перешла на Chez Scheme в качестве бэкенда.
 
-### Транспайлеры в C
+### Компиляторы в C
 
 * [**CHICKEN**](https://www.call-cc.org/): R5RS и R7RS, дружелюбная к новичкам, исключительное сообщество, уникальная реализация сборщика мусора.
-* [Cyclone](https://justinethier.github.io/cyclone/): R7RS, экспериментальное расширение сборщика мусора в стиле Chicken с поддержкой "родных" потоков.
+* [Cyclone](https://justinethier.github.io/cyclone/): R7RS, экспериментальное расширение сборщика мусора в стиле Chicken с поддержкой нативных потоков.
 * [Gambit](http://dynamo.iro.umontreal.ca/wiki/index.php/Main_Page): R5RS, официальные инсталляторы есть также для
   macOS, iOS, Windows, считается довольно быстрой.
-* [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, может компилироваться в классы Java-Virtual-Machine (JVM), с
+* [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, может компилироваться в Java-Virtual-Machine (JVM) классы, с
   ограниченной необязательной типизацией.
 
 ### Виртуальные машины и JVM/CLR
@@ -68,15 +64,19 @@
 * [Chibi-Scheme](http://synthcode.com/wiki/chibi-scheme): R7RS
 * [Gauche](https://practical-scheme.net/gauche/): R7RS, компилируется в автономный
   исполняемый файл, официальные инсталляторы есть также для Windows, есть Docker образ.
-* [**GNU Guile**](https://www.gnu.org/software/guile/): R6RS, скоро получит поддержку JIT исполнения, дружелюбная к новичкам, официально поддерживается GNU, язык сценариев для многих частей программного обеспечения GNU.
+* [**GNU Guile**](https://www.gnu.org/software/guile/): R6RS, есть JIT компилятор, дружелюбная к новичкам, официально поддерживается GNU, язык сценариев для многих частей программного обеспечения GNU.
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, работает на Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, работает на JVM, компилируется в JVM классы, ограниченная необязательная типизация.
 * [STklos](http://stklos.net): R7RS за исключением системы модулей; ad-hoc переносимая ВМ, с CLOS-подобной системой объектов.
 
-### JavaScript интерпретаторы
+### Основанные на JavaScript
 
 * [BiwaScheme](https://www.biwascheme.org/): R6RS, частично R7RS, компилятор в промежуточное представление + ВМ.
 * [LIPS](https://lips.js.org/): R7RS, большая часть спецификации написана на ядре Scheme, хорошее взаимодействие с JavaScript.
+
+### Реализованные на Python
+
+* [Calysto Scheme](https://github.com/Calysto/calysto_scheme): частично R6RS, написана на Scheme, транслирована в Python.
 
 ## Менеджеры пакетов
 
@@ -102,6 +102,7 @@
 ## Редакторы и среды разработки
 
 * [Geiser](https://www.nongnu.org/geiser/): Emacs пакет для наиболее полной поддержки разных реализаций Scheme. ([MELPA](https://melpa.org/#/geiser))
+* [Scheme-langserver](https://github.com/ufo5260987423/scheme-langserver): новый LSP сервер для Scheme, ориентированный на обработку неполного исходного кода и предоставление полезных возможностей языка. Он отличается от других REPL тем, что обеспечивает автодополнение локальных идентификаторов и многие другие возможности.
 
 ## Приложения
 
@@ -138,6 +139,15 @@
 * r6rs-pffi - переносимый интерфейс внешних функций для нескольких реализаций Scheme (R6RS; [Страница и документация](https://github.com/ktakashi/r6rs-pffi); Akku).
 
 ## Прошедшие мероприятия
+
+### 2022
+
+* [Практикум по Scheme и функциональному программированию на ICFP](https://icfp22.sigplan.org/home/scheme-2022): 16 сентября - Любляна, Словения
+
+### 2021
+
+* [Практикум по Scheme и функциональному программированию на ICFP](https://icfp21.sigplan.org/home/scheme-2021): 27 августа - виртуальное
+* [Европейский симпозиум по Лиспу](https://european-lisp-symposium.org/2021/): 3-4 мая - виртуальное
 
 ### 2020
 
