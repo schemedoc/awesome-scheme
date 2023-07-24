@@ -9,20 +9,32 @@
 
 ## Contents
 
-- [Events (2021)](#events-2021)
-- [Advocacy](#advocacy)
-- [Standards](#standards)
-- [Implementations](#implementations)
-- [Package Managers](#package-managers)
-- [Books](#books)
-- [Research Papers](#research-papers)
-- [Editors and IDEs](#editors-and-ides)
-- [Applications](#applications)
-- [Web Development](#web-development)
-- [Text processing](#text-processing)
-- [Graphics, Music, Audio, Video](#graphics-music-audio-video)
-- [Languages and Computation](#languages-and-computation)
-- [Past Events](#past-events)
+- [Awesome Scheme](#awesome-scheme)
+  - [Translations](#translations)
+  - [Contents](#contents)
+  - [Advocacy](#advocacy)
+  - [Standards](#standards)
+  - [Implementations](#implementations)
+    - [Compiling to Native Code](#compiling-to-native-code)
+    - [Based on Another Scheme](#based-on-another-scheme)
+    - [Compiling to C](#compiling-to-c)
+    - [Bytecode VMs and JVM/CLR](#bytecode-vms-and-jvmclr)
+    - [Based on JavaScript](#based-on-javascript)
+    - [Implemented in Python](#implemented-in-python)
+  - [Package Managers](#package-managers)
+  - [Books](#books)
+  - [Research Papers](#research-papers)
+  - [Editors and IDEs](#editors-and-ides)
+  - [Applications](#applications)
+  - [Web Development](#web-development)
+  - [Text Processing](#text-processing)
+  - [Graphics, Music, Audio, Video](#graphics-music-audio-video)
+  - [Languages and Computation](#languages-and-computation)
+  - [Past Events](#past-events)
+  - [2022](#2022)
+  - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
 
 ## Advocacy
 
@@ -107,6 +119,7 @@
 ## Editors and IDEs
 
 * [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
+* [Scheme-langserver](https://github.com/ufo5260987423/scheme-langserver): a new scheme language server focusing on digesting incomplete scheme source code and giving out useful language features. It's different from other REPL counterparts for it provides local identifier auto complete and many other functionalities.
 
 ## Applications
 
