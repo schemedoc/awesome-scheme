@@ -107,6 +107,7 @@
 ## Editors and IDEs
 
 * [Geiser](https://www.nongnu.org/geiser/): most comprehensive Emacs support for many Scheme implementations ([MELPA](https://melpa.org/#/geiser))
+* [Scheme-langserver](https://github.com/ufo5260987423/scheme-langserver): a new scheme language server focusing on digesting incomplete scheme source code and giving out useful language features. It's different from other REPL counterparts for it provides local identifier auto complete and many other functionalities.
 
 ## Applications
 
