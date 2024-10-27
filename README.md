@@ -59,7 +59,7 @@
 
 * [**CHICKEN**](https://www.call-cc.org/): R5RS and R7RS, beginner friendly, exceptional community, unique implementation of GC.
 * [Cyclone](https://justinethier.github.io/cyclone/): R7RS,  experimental extension of Chicken-style GC with native thread support.
-* [Gambit](http://gambitscheme.org/): R5RS, official installers also for
+* [Gambit](https://gambitscheme.org/): R5RS, official installers also for
   macOS, iOS, Windows, considered quite fast.
 * [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/): R5RS, can also compile to Java-Virtual-Machine (JVM) classes,
   limited optional typing.
