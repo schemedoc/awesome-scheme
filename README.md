@@ -72,6 +72,7 @@
 * [**GNU Guile**](https://www.gnu.org/software/guile/): R6RS, getting JIT executable support soon, beginner friendly, officially supported by GNU,  scripting language for many pieces of GNU software.
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
+* [Skint](https://github.com/false-schemers/skint): R7RS-small, easily portable (Un*x, MacOS, Windows), fast threaded-code VM
 * [STklos](http://stklos.net): R7RS except that `syntax-rules` only has partial hygiene and lexical scope; ad-hoc portable VM, with CLOS-like object system.
 
 ### Based on JavaScript
