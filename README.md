@@ -73,6 +73,7 @@
 * [IronScheme](https://github.com/leppie/IronScheme): R6RS, based on Common-Language-Runtime (CLR).
 * [Kawa](https://www.gnu.org/software/kawa/): R7RS, based on JVM, compile to JVM classes, limited optional typing.
 * [STklos](http://stklos.net): R7RS except that `syntax-rules` only has partial hygiene and lexical scope; ad-hoc portable VM, with CLOS-like object system.
+* [Skint](https://github.com/false-schemers/skint): R7RS-small, easily portable (Un*x, MacOS, Windows), fast threaded-code VM
 
 ### Based on JavaScript
 
