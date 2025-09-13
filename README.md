@@ -29,6 +29,7 @@
 * [Why _Structure and Interpretation of Computer Programs_ matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [Why Write Compilers in Scheme?](https://blog.theincredibleholk.org/blog/2013/07/09/why-write-compilers-in-scheme/)
 * [Why LambdaChip is using Scheme](https://lambdachip.com/articles/news/11)
+* [A love letter to s7 Scheme](https://carloscarrasco.com/love-letter-to-s7-scheme/)
 
 ## Standards
 
