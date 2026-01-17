@@ -46,7 +46,6 @@
 ### Compiling to Native Code
 
 * [Chez Scheme](https://cisco.github.io/ChezScheme/): R6RS, official installer also for Windows, considered one of the fastest scheme implementations.
-* [Ikarus](http://ikarus-scheme.org/) R6RS
 * [MIT/GNU Scheme](https://www.gnu.org/software/mit-scheme/): R7RS
 
 ### Based on Another Scheme
