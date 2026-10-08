@@ -52,6 +52,7 @@
 ### Based on Another Scheme
 
 * [Gerbil](https://cons.io/): R7RS, compiles to C, based on Gambit,  extends gambit with better macro and module systems.
+* [Goldfish](https://github.com/MoganLab/goldfish): R7RS, based on S7 Scheme, full Windows support, Python-like versatile standard library, Go-style CSP concurrency model.
 * [**Racket**](https://racket-lang.org/): R6RS, beginner friendly, full Windows support, optional
   typing, essentially a superset of scheme,  tons of libraries,  moving/moved to a Chez Scheme backend.
 
